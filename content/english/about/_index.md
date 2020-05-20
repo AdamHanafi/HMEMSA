@@ -4,7 +4,7 @@ draft: false
 # page title background image
 bg_image: "images/moroc.jpg"
 # about image
-image: "http://hmemsa.org/wp-content/uploads/2020/02/Screenshot_95.png"
+image: "https://hmemsa.org/wp-content/uploads/2020/02/Screenshot_95.png"
 # meta description
 description : "Contributing to the development of Morocco through services and exchange of expertise between Moroccan and American educators, professionals and students."
 ---

@@ -6,7 +6,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # teacher portrait
-image: "http://hmemsa.org/wp-content/uploads/2020/03/eGssy4XFa6W3WnJl1JM5WbQez1RGeu39jkkJDKWGyCgM3d4ayJObkpDeGG9U57tUd12IKgsassP_txmqHhVWFaHUcKpdbAUoTJuRBfI16aqxksMeUqUAjwupesr3PJcv6La6HDcJ-150x150.jpg"
+image: "https://hmemsa.org/wp-content/uploads/2020/03/eGssy4XFa6W3WnJl1JM5WbQez1RGeu39jkkJDKWGyCgM3d4ayJObkpDeGG9U57tUd12IKgsassP_txmqHhVWFaHUcKpdbAUoTJuRBfI16aqxksMeUqUAjwupesr3PJcv6La6HDcJ-150x150.jpg"
 # course
 course: "Ph. D. Founder, President of the board"
 # biography

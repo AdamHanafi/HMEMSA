@@ -3,11 +3,11 @@ title: "Inspiring Hope in Morocco"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
-bg_image: "http://hmemsa.org/wp-content/uploads/2020/02/Screenshot_95-1200x437.png"
+bg_image: "https://hmemsa.org/wp-content/uploads/2020/02/Screenshot_95-1200x437.png"
 # meta description
 description : "Health Mission 2018 HMEMSA did it again!  For the 3rd consecutive year they successfully completed their medical mission providing vital care to the under served in Morocco.   During their April mission they were able to visit children at 2 different orphanages where they provided much needed medical and dental treatment for the acute needs of many of the beautiful children. A …"
 # post thumbnail
-image: "http://hmemsa.org/wp-content/uploads/2020/02/Screenshot_95-1200x437.png"
+image: "https://hmemsa.org/wp-content/uploads/2020/02/Screenshot_95-1200x437.png"
 # post author
 author: "Zohal Azimi"
 # taxonomy
